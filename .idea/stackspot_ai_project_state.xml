@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectStateService">
+    <option name="data">
+      <map>
+        <entry key="wesleyosantos91@gmail.com">
+          <value>
+            <ProjectStateData>
+              <option name="conversationId" value="01J6G8Q1D4QJ8W4VQ0D60QNCP5" />
+              <option name="indexedFiles">
+                <map>
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/duckdb/duckdb/DuckDBPyConnection.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/numpy/__init__.py" value="86214" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/numpy/random/__init__.py" value="86215" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/numpy/random/_common.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/numpy/random/_generator.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/numpy/random/_mt19937.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/numpy/random/_pcg64.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/numpy/random/_philox.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/numpy/random/_sfc64.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/numpy/random/bit_generator.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/numpy/random/mtrand.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/__init__.py" value="89255" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/__init__.py" value="89256" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/hashtable/ObjectFactorizer.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/hashtable/ObjectVector.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/hashtable/PyObjectHashTable.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/hashtable/StringHashTable.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/hashtable/StringVector.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/hashtable/UInt16Factorizer.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/hashtable/UInt16HashTable.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/hashtable/UInt16Vector.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/hashtable/UInt32Factorizer.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/hashtable/UInt32HashTable.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/hashtable/UInt32Vector.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/hashtable/UInt64Factorizer.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/hashtable/UInt64HashTable.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/hashtable/UInt64Vector.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/hashtable/UInt8Factorizer.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/hashtable/UInt8HashTable.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/hashtable/UInt8Vector.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/hashtable/Vector.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/hashtable/__init__.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/indexing.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/internals.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/interval.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/join.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/json.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/lib.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/missing.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/ops.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/ops_dispatch.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/pandas_datetime.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/pandas_parser.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/parsers.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/properties.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/reshape.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/sas.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/sparse.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/testing.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/tslib.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/tslibs/__init__.py" value="89257" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/tslibs/parsing.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/tslibs/period.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/tslibs/strptime.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/tslibs/timedeltas.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/tslibs/timestamps.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/tslibs/timezones.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/tslibs/tzconversion.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/tslibs/vectorized.py" value="0" />
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/writers.py" value="0" />
+                  <entry key="$PROJECT_DIR$/.venv/Lib/site-packages/botocore/client.py" value="0" />
+                  <entry key="$PROJECT_DIR$/.venv/Lib/site-packages/srt.py" value="0" />
+                  <entry key="$PROJECT_DIR$/aws/core/handler_service.py" value="118886" />
+                  <entry key="$PROJECT_DIR$/aws/lambda_function.py" value="0" />
+                  <entry key="$PROJECT_DIR$/aws/lambda_function_core.py" value="51997" />
+                  <entry key="$PROJECT_DIR$/aws/lambda_function_test.py" value="5008" />
+                  <entry key="$PROJECT_DIR$/aws/lambda_function_test_s3.py" value="14752" />
+                  <entry key="$PROJECT_DIR$/aws/s3/s3_service.py" value="111543" />
+                  <entry key="$PROJECT_DIR$/aws/sqs/sqs_service.py" value="9301" />
+                  <entry key="$PROJECT_DIR$/docker-compose.yml" value="0" />
+                  <entry key="$PROJECT_DIR$/docker/docker-compose.yml" value="0" />
+                  <entry key="$PROJECT_DIR$/domain/PessoaFisica.py" value="29971" />
+                  <entry key="$PROJECT_DIR$/domain/abstract_persn.py" value="33202" />
+                  <entry key="$PROJECT_DIR$/domain/abstract_person.py" value="37827" />
+                  <entry key="$PROJECT_DIR$/domain/natural_person_.py" value="0" />
+                  <entry key="$PROJECT_DIR$/domain/person.py" value="0" />
+                  <entry key="$PROJECT_DIR$/exception/business_exception.py" value="0" />
+                  <entry key="$PROJECT_DIR$/exception/bussines_exception.py" value="36054" />
+                  <entry key="$PROJECT_DIR$/ola_mundo.py" value="5600" />
+                  <entry key="$PROJECT_DIR$/requirements.txt" value="0" />
+                  <entry key="$PROJECT_DIR$/spark/hello_world_spark.py" value="0" />
+                </map>
+              </option>
+              <option name="projectId" value="01J65RXYE4ZV40BJFT01KVRE17" />
+            </ProjectStateData>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
