@@ -6,9 +6,10 @@
         <entry key="wesleyosantos91@gmail.com">
           <value>
             <ProjectStateData>
-              <option name="conversationId" value="01J6G8Q1D4QJ8W4VQ0D60QNCP5" />
+              <option name="conversationId" value="01J6N2RNXGYPZKAM6KGNVC9QMN" />
               <option name="indexedFiles">
                 <map>
+                  <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/httpFileSystem/catalog.json" value="1177" />
                   <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/duckdb/duckdb/DuckDBPyConnection.py" value="0" />
                   <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/numpy/__init__.py" value="86214" />
                   <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/numpy/random/__init__.py" value="86215" />
@@ -70,25 +71,61 @@
                   <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/tslibs/vectorized.py" value="0" />
                   <entry key="$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.2/python_stubs/365316031/pandas/_libs/writers.py" value="0" />
                   <entry key="$PROJECT_DIR$/.venv/Lib/site-packages/botocore/client.py" value="0" />
+                  <entry key="$PROJECT_DIR$/.venv/Lib/site-packages/py.py" value="0" />
                   <entry key="$PROJECT_DIR$/.venv/Lib/site-packages/srt.py" value="0" />
-                  <entry key="$PROJECT_DIR$/aws/core/handler_service.py" value="118886" />
+                  <entry key="$PROJECT_DIR$/app/lambda_function.py" value="-1" />
+                  <entry key="$PROJECT_DIR$/app/lambda_function_test_core.py" value="-1" />
+                  <entry key="$PROJECT_DIR$/app/lambda_function_test_s3.py" value="-1" />
+                  <entry key="$PROJECT_DIR$/app/lambda_function_test_sqs.py" value="-1" />
+                  <entry key="$PROJECT_DIR$/app/src/core/handler_service.py" value="168471" />
+                  <entry key="$PROJECT_DIR$/app/src/s3/__init__.py" value="0" />
+                  <entry key="$PROJECT_DIR$/app/src/s3/s3_service.py" value="0" />
+                  <entry key="$PROJECT_DIR$/app/test/s3/__init__.py" value="-1" />
+                  <entry key="$PROJECT_DIR$/app/test/s3/htmlcov/index.html" value="0" />
+                  <entry key="$PROJECT_DIR$/app/test/s3/test_s3_service.py" value="-1" />
+                  <entry key="$PROJECT_DIR$/aws/core/handler_service.py" value="142494" />
+                  <entry key="$PROJECT_DIR$/aws/htmlcov/class_index.html" value="25909" />
+                  <entry key="$PROJECT_DIR$/aws/htmlcov/coverage_html_cb_497bf287.js" value="25913" />
+                  <entry key="$PROJECT_DIR$/aws/htmlcov/function_index.html" value="25910" />
+                  <entry key="$PROJECT_DIR$/aws/htmlcov/index.html" value="25907" />
+                  <entry key="$PROJECT_DIR$/aws/htmlcov/status.json" value="25908" />
+                  <entry key="$PROJECT_DIR$/aws/htmlcov/style_cb_718ce007.css" value="25911" />
+                  <entry key="$PROJECT_DIR$/aws/htmlcov/z_b2ac8bd2f3a3c308_sqs_service_py.html" value="13434" />
+                  <entry key="$PROJECT_DIR$/aws/htmlcov/z_ce21df766c911d41_handler_service_py.html" value="25915" />
                   <entry key="$PROJECT_DIR$/aws/lambda_function.py" value="0" />
                   <entry key="$PROJECT_DIR$/aws/lambda_function_core.py" value="51997" />
                   <entry key="$PROJECT_DIR$/aws/lambda_function_test.py" value="5008" />
-                  <entry key="$PROJECT_DIR$/aws/lambda_function_test_s3.py" value="14752" />
-                  <entry key="$PROJECT_DIR$/aws/s3/s3_service.py" value="111543" />
+                  <entry key="$PROJECT_DIR$/aws/lambda_function_test_core.py" value="153691" />
+                  <entry key="$PROJECT_DIR$/aws/lambda_function_test_s3.py" value="153716" />
+                  <entry key="$PROJECT_DIR$/aws/lambda_function_test_sqs.py" value="153376" />
+                  <entry key="$PROJECT_DIR$/aws/s3/s3_service.py" value="141804" />
                   <entry key="$PROJECT_DIR$/aws/sqs/sqs_service.py" value="9301" />
+                  <entry key="$PROJECT_DIR$/aws/src/core/handler_service.py" value="0" />
+                  <entry key="$PROJECT_DIR$/aws/src/s3/s3_service.py" value="0" />
+                  <entry key="$PROJECT_DIR$/aws/src/sqs/sqs_service.py" value="0" />
+                  <entry key="$PROJECT_DIR$/aws/test/core/test_handler_service.py" value="25711" />
+                  <entry key="$PROJECT_DIR$/aws/test/s3/s3_service_test.py" value="156806" />
+                  <entry key="$PROJECT_DIR$/aws/test/s3/test_s3_service.py" value="3507" />
+                  <entry key="$PROJECT_DIR$/aws/test/sqs/test_sqs_service.py" value="19063" />
                   <entry key="$PROJECT_DIR$/docker-compose.yml" value="0" />
                   <entry key="$PROJECT_DIR$/docker/docker-compose.yml" value="0" />
                   <entry key="$PROJECT_DIR$/domain/PessoaFisica.py" value="29971" />
                   <entry key="$PROJECT_DIR$/domain/abstract_persn.py" value="33202" />
-                  <entry key="$PROJECT_DIR$/domain/abstract_person.py" value="37827" />
+                  <entry key="$PROJECT_DIR$/domain/abstract_person.py" value="0" />
                   <entry key="$PROJECT_DIR$/domain/natural_person_.py" value="0" />
                   <entry key="$PROJECT_DIR$/domain/person.py" value="0" />
                   <entry key="$PROJECT_DIR$/exception/business_exception.py" value="0" />
                   <entry key="$PROJECT_DIR$/exception/bussines_exception.py" value="36054" />
-                  <entry key="$PROJECT_DIR$/ola_mundo.py" value="5600" />
+                  <entry key="$PROJECT_DIR$/htmlcov/index.html" value="0" />
+                  <entry key="$PROJECT_DIR$/matematica/soma.py" value="159797" />
+                  <entry key="$PROJECT_DIR$/matematica/testSomar.py" value="160563" />
+                  <entry key="$PROJECT_DIR$/matematica/test_soma.py" value="163006" />
+                  <entry key="$PROJECT_DIR$/ola_mundo.py" value="162091" />
                   <entry key="$PROJECT_DIR$/requirements.txt" value="0" />
+                  <entry key="$PROJECT_DIR$/soma/__init__.py" value="-1" />
+                  <entry key="$PROJECT_DIR$/soma/soma.py" value="-1" />
+                  <entry key="$PROJECT_DIR$/soma/soma_test.py" value="0" />
+                  <entry key="$PROJECT_DIR$/soma/test_soma.py" value="-1" />
                   <entry key="$PROJECT_DIR$/spark/hello_world_spark.py" value="0" />
                 </map>
               </option>

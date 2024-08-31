@@ -1,4 +1,4 @@
-from aws.core.handler_service import HandlerService
+from aws.src.core.handler_service import HandlerService
 
 event = {
     "Records": [

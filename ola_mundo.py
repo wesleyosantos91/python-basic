@@ -1,11 +1,11 @@
-import soma.soma as soma
+import matematica.soma as soma
 
 
 class OlaMundo:
 
     def __init__(self):
         print('Olá, Mundo!')
-        print('2 + 3 =', soma.soma(2, 3))
+        print('2 + 3 =', soma.somar(2, 3))
 
 if __name__ == '__main__':
     ola = OlaMundo()
