@@ -3,6 +3,13 @@
   <component name="ProjectStateService">
     <option name="data">
       <map>
+        <entry key="unauthenticated">
+          <value>
+            <ProjectStateData>
+              <option name="projectId" value="01J6SJNQ35SGN3F3WG880TEY63" />
+            </ProjectStateData>
+          </value>
+        </entry>
         <entry key="wesleyosantos91@gmail.com">
           <value>
             <ProjectStateData>
@@ -84,12 +91,12 @@
                   <entry key="$PROJECT_DIR$/app/test/s3/htmlcov/index.html" value="0" />
                   <entry key="$PROJECT_DIR$/app/test/s3/test_s3_service.py" value="-1" />
                   <entry key="$PROJECT_DIR$/aws/core/handler_service.py" value="142494" />
-                  <entry key="$PROJECT_DIR$/aws/htmlcov/class_index.html" value="25909" />
-                  <entry key="$PROJECT_DIR$/aws/htmlcov/coverage_html_cb_497bf287.js" value="25913" />
-                  <entry key="$PROJECT_DIR$/aws/htmlcov/function_index.html" value="25910" />
-                  <entry key="$PROJECT_DIR$/aws/htmlcov/index.html" value="25907" />
-                  <entry key="$PROJECT_DIR$/aws/htmlcov/status.json" value="25908" />
-                  <entry key="$PROJECT_DIR$/aws/htmlcov/style_cb_718ce007.css" value="25911" />
+                  <entry key="$PROJECT_DIR$/aws/htmlcov/class_index.html" value="26637" />
+                  <entry key="$PROJECT_DIR$/aws/htmlcov/coverage_html_cb_497bf287.js" value="26641" />
+                  <entry key="$PROJECT_DIR$/aws/htmlcov/function_index.html" value="26638" />
+                  <entry key="$PROJECT_DIR$/aws/htmlcov/index.html" value="26635" />
+                  <entry key="$PROJECT_DIR$/aws/htmlcov/status.json" value="26636" />
+                  <entry key="$PROJECT_DIR$/aws/htmlcov/style_cb_718ce007.css" value="26639" />
                   <entry key="$PROJECT_DIR$/aws/htmlcov/z_b2ac8bd2f3a3c308_sqs_service_py.html" value="13434" />
                   <entry key="$PROJECT_DIR$/aws/htmlcov/z_ce21df766c911d41_handler_service_py.html" value="25915" />
                   <entry key="$PROJECT_DIR$/aws/lambda_function.py" value="0" />
